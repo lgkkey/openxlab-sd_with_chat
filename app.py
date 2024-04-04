@@ -17,4 +17,4 @@ if os.path.exists("app_start.py"):
 os.system("ls -la")
 print("----------------start app_start.py----------------------")
 
-os.system(f"python app_start.py")
+os.system(f"python app_start2.py")
